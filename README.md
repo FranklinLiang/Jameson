@@ -1,6 +1,6 @@
 # Jameson's Crashed Python Automated Script
 
->Not very polished, needs some fixing. Please read: [First Person AHK](franklinliang.github.io/posts/first-person-ahk)
+>Not very polished, needs some fixing. Please read: [First Person AHK](https://franklinliang.github.io/posts/first-person-ahk)
 
 To use:
 1. Install AHK
